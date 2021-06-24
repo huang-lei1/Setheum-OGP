@@ -1,2 +1,2 @@
-# SettFund-Open-Grants-Program
+# Setheum-OGP
 SettFund-Open-Grants-Program
